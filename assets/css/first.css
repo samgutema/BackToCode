@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(212, 153, 153);
+}
+
+h2 {
+    background-color: rgb(157, 216, 157);
+}
+
+p {
+    background-color: rgb(203, 203, 231);
+}
+
+.noblue {
+    background-color: rgb(241, 241, 190);
+}
+
+#myid {
+    background-color: rgb(179, 50, 3);
+}
